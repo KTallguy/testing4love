@@ -6,7 +6,7 @@
 			"request": "launch",
 			"name": "Debug",
 			"program": {
-				"command": "love"
+				"command": "/home/deck/love2D/squashfs-root/bin/love"
 			},
 			"args": [
 				".",
@@ -18,7 +18,7 @@
 			"request": "launch",
 			"name": "Release",
 			"program": {
-				"command": "love"
+				"command": "/home/deck/love2D/squashfs-root/bin/love"
 			},
 			"args": [
 				".",
