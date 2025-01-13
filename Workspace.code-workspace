@@ -20,5 +20,7 @@
 			"name": "Root",
 			"path": ".",
 		}
-	]
+	],
+	"settings": {}
+	
 }

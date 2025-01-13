@@ -1,7 +1,8 @@
-name = "Game"
-default_targets = ["win32", "win64", "macos", "lovejs"]
-build_directory = "../builds"
+name = "testing4love"
+default_targets = ["win32", "win64", "appimage"]
+build_directory = "/home/deck/love2D/testing4love/builds/"
+
 love_files = [
-    "+*",
+    "::git-ls-tree::",
     "-*/.*",
 ]
