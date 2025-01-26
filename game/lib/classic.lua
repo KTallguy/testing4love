@@ -1,3 +1,4 @@
+---@diagnostic disable: redundant-parameter
 --! file:classic.lua
 -- from https://github.com/rxi/classic
 --
